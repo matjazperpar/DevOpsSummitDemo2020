@@ -2,20 +2,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: dev001
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: dev002
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: dev003
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: dev005
-
+  name: dev01
