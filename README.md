@@ -1,4 +1,4 @@
-# DevOpsSummitDemo2020 - Azure Arc and GitOps Demo
+# DevOps Summit 2020 - Azure Arc and GitOps Demo
 
 
 
